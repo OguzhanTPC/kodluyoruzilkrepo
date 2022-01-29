@@ -9,7 +9,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 ## İnstallation 
 ***
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
-```print (" https://github.com/OguzhanTPC/kodluyoruzilkrepo.git") ```
+```https://github.com/OguzhanTPC/kodluyoruzilkrepo.git```
 
 *** 
 ## Usage 
